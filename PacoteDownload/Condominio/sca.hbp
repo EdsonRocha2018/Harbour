@@ -1,0 +1,11 @@
+sca.prg
+scafun.prg
+func.prg
+criadbase.prg
+hbhpdf.hbc
+hbct.hbc
+-lxhb
+-strip
+-compr
+gtwvg.hbc
+-DGTWVG
